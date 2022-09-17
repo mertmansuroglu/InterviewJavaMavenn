@@ -1,18 +1,14 @@
-package practices.plusMinusProblem;
+package plusMinusProblem;
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.List;
 
-public class Test {
-    public static void main(String[] args) {
-        Integer[] array = new Integer[] { 1, 1, 0, -1, -1};
-        List<Integer> list= Arrays.asList(array);
-        plusMinus(list);
-    }
+public class PlusMinus {
 
-    public static void plusMinus(List<Integer> arr) {
+
+    public  void plusMinus(List<Integer> arr) {
         int positiveCount=0;
         int negativeCount=0;
         int zeroCount=0;
@@ -31,6 +27,7 @@ public class Test {
         System.out.println(df.format(((double)positiveCount/arr.size())));
         System.out.println(df.format(((double)negativeCount/arr.size())));
         System.out.println(df.format(((double)zeroCount/arr.size())));
+
     }
 
 }
