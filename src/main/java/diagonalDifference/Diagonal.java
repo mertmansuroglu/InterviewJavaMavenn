@@ -6,7 +6,20 @@ import java.util.stream.Collectors;
 
 public class Diagonal {
 
+    public  int diagonalDiffAlternative( Integer[][] array) {
+        int leftIndex=0;
+        int rightIndex=array.length-1;
+        int leftdiagonal=0;
+        int rightdiagonal=0;
 
+        for(int i=0;i<array.length;i++) {
+            leftdiagonal+=array[i][leftIndex];
+            rightdiagonal+=array[i][rightIndex];
+            leftIndex++;
+            rightIndex--;
+        }
+        return Math.abs(leftdiagonal-rightdiagonal);
+    }
     public  int diagonalDiff(List<List<Integer>> arr) {
         int leftdiagonal=0;
         int rightdiagonal=0;

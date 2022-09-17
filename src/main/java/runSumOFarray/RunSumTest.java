@@ -24,4 +24,13 @@ class RunSumTest {
         Assertions.assertTrue(arrayListInput.equals(arrayListAnswer));
 
     }
+
+    @Test
+    void runningSumTestWithRecursive(){
+        int[] array = {1, 3, 5, 7};
+        int[] ans={1,4,9,16};
+        RunSum runSum= new RunSum();
+        runSum.runningSumWithRecursive(array,0);
+        Assertions.assertArrayEquals(array,ans);
+    }
 }

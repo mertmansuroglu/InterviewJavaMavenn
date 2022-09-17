@@ -19,8 +19,12 @@ class DiagonalTest {
     @org.junit.jupiter.api.AfterEach
     void tearDown() {
     }
-
-
+    @Test
+    void diagonalTestAlternative(){
+    Diagonal diagonal= new Diagonal();
+    Integer[][] array = new Integer[][] {{1,2,3},{4,5,6},{9,8,9}};
+    Assertions.assertEquals(2,diagonal.diagonalDiffAlternative(array));
+}
     @Test
     void diagonalDiffPositiveTestCase() {
         Integer[][] array = new Integer[][] {{1,2,3},{4,5,6},{9,8,9}};
