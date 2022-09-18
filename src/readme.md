@@ -1,3 +1,7 @@
+# Algorithm Problems
+
+
+
 ## 1.Find Pivot Index
 
 Given an array of integers nums, calculate the pivot index of this array.
@@ -134,4 +138,67 @@ The secondary diagonal is:
 Sum across the secondary diagonal: 4 + 5 + 10 = 19
 Difference: |4 - 19| = 15
 
+## 5.Mini-Max Sum
 
+Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+
+### Example
+arr= [1,3,5,7,9]
+
+The minimum sum is 1+3+5+7=16  and the maximum sum is 3+5+7+9=24 . 
+The function prints
+
+**16 24**.
+
+### Function Description
+
+Complete the miniMaxSum function in the editor below.
+
+miniMaxSum has the following parameter(s):
+
+arr: an array of  integers
+Print
+
+Print two space-separated integers on one line: the minimum sum and the maximum sum of  of  elements.
+
+### Input Format
+
+A single line of five space-separated integers.
+
+
+Sample Input
+
+**1 2 3 4 5**.
+
+Sample Output
+
+**10 14**
+
+## 6.Birthday cake candles tallest
+
+You are in charge of the cake for a child's birthday. You have decided the cake will have one candle for each year of their total age. They will only be able to blow out the tallest of the candles. Count how many candles are tallest.
+
+###  Example
+
+candles=[4,4,1,3]
+
+The maximum height candles are 4 units high. There are 2 of them, so return 2 .
+
+###  Function Description
+
+Complete the function birthdayCakeCandles in the editor below.
+
+birthdayCakeCandles has the following parameter(s):
+
+int candles[n]: the candle heights
+### Returns
+
+int: the number of candles that are tallest
+###  Input Format
+
+The first line contains a single integer, , the size of .
+The second line contains  space-separated integers, where each integer  describes the height of .
+
+###   Explanation 
+
+Candle heights are [3,2,1,3] . The tallest candles are 3 units, and there are 2 of them.

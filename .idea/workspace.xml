@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/CarpimTablosu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FactorialFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindAsciiValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/MultiplyTwoFloating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SwapTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/UnluUnsuzHarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/printInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fibonacciSeries/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Eu9AHqbVvyBAdUkNLrjrq5YGSc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +53,123 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/fibonacciSeries",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2045977"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fibonacciSeries" />
+      <recent name="twoSum" />
+      <recent name="tallestCandle" />
+      <recent name="miniMaxSum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FibonacciTest.fibonacciTestAltern">
+    <configuration name="WarmUpQuestions.CarpimTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.CarpimTablosu" />
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmUpQuestions.FactorialFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.FactorialFind" />
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciTest.fibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fibonacciSeries" />
+      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.FibonacciTest" />
+      <option name="METHOD_NAME" value="fibonacciTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciTest.fibonacciTestAltern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fibonacciSeries" />
+      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.FibonacciTest" />
+      <option name="METHOD_NAME" value="fibonacciTestAltern" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci.fibonacciRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fibonacciSeries" />
+      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.Fibonacci" />
+      <option name="METHOD_NAME" value="fibonacciRecursive(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FibonacciTest.fibonacciTestAltern" />
+        <item itemvalue="JUnit.FibonacciTest.fibonacciTest" />
+        <item itemvalue="JUnit.Fibonacci.fibonacciRecursive" />
+        <item itemvalue="Application.WarmUpQuestions.CarpimTablosu" />
+        <item itemvalue="Application.WarmUpQuestions.FactorialFind" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +180,32 @@
       <updated>1663434458583</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
