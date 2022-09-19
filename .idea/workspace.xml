@@ -4,26 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/CarpimTablosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FactorialFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindAsciiValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/MultiplyTwoFloating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SumOfNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SwapTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/UnluUnsuzHarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/printInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fibonacciSeries/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSumTest.java" afterDir="false" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="latest commits">
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/DisplayCharFromAtoZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/NumberOfDigitsSUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/PowerOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/palindrome/PalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/fibonacciSeries",
+    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/checkPrimeNumber",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2045977"
@@ -68,19 +60,24 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="checkPrimeNumber" />
+      <recent name="palindrome" />
+      <recent name="displayCharactersLoop" />
       <recent name="fibonacciSeries" />
       <recent name="twoSum" />
-      <recent name="tallestCandle" />
-      <recent name="miniMaxSum" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="checkPrimeBetweenIntervals" />
+      <recent name="checkPrimeNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FibonacciTest.fibonacciTestAltern">
-    <configuration name="WarmUpQuestions.CarpimTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.CarpimTablosu" />
+  <component name="RunManager" selected="JUnit.PrimeNumberTest.primeNumberTest">
+    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.PowerOfNumber" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="PATTERN" value="WarmUpQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,62 +85,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUpQuestions.FactorialFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.FactorialFind" />
+    <configuration name="PalindromeTest.palindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="PATTERN" value="palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciTest.fibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fibonacciSeries.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fibonacciSeries" />
-      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.FibonacciTest" />
-      <option name="METHOD_NAME" value="fibonacciTest" />
+      <option name="PACKAGE_NAME" value="palindrome" />
+      <option name="MAIN_CLASS_NAME" value="palindrome.PalindromeTest" />
+      <option name="METHOD_NAME" value="palindromeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.fibonacciTestAltern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowerOfNumber.testAlternative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="PATTERN" value="WarmUpQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fibonacciSeries" />
-      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.FibonacciTest" />
-      <option name="METHOD_NAME" value="fibonacciTestAltern" />
+      <option name="PACKAGE_NAME" value="WarmUpQuestions" />
+      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.PowerOfNumber" />
+      <option name="METHOD_NAME" value="testAlternative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci.fibonacciRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumberTest.primeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fibonacciSeries.*" />
+          <option name="PATTERN" value="checkPrimeBetweenIntervals.PrimeNumberInterval" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fibonacciSeries" />
-      <option name="MAIN_CLASS_NAME" value="fibonacciSeries.Fibonacci" />
-      <option name="METHOD_NAME" value="fibonacciRecursive(int)" />
+      <option name="PACKAGE_NAME" value="checkPrimeBetweenIntervals" />
+      <option name="MAIN_CLASS_NAME" value="checkPrimeBetweenIntervals.PrimeNumberTest" />
+      <option name="METHOD_NAME" value="primeNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber.testAlternative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarmUpQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WarmUpQuestions" />
+      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.ReverseNumber" />
+      <option name="METHOD_NAME" value="testAlternative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FibonacciTest.fibonacciTestAltern" />
-        <item itemvalue="JUnit.FibonacciTest.fibonacciTest" />
-        <item itemvalue="JUnit.Fibonacci.fibonacciRecursive" />
-        <item itemvalue="Application.WarmUpQuestions.CarpimTablosu" />
-        <item itemvalue="Application.WarmUpQuestions.FactorialFind" />
+        <item itemvalue="JUnit.PrimeNumberTest.primeNumberTest" />
+        <item itemvalue="JUnit.PalindromeTest.palindromeTest" />
+        <item itemvalue="Application.PowerOfNumber" />
+        <item itemvalue="JUnit.PowerOfNumber.testAlternative" />
+        <item itemvalue="JUnit.ReverseNumber.testAlternative" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +179,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663434458583</updated>
     </task>
+    <task id="LOCAL-00001" summary="latest commits">
+      <created>1663525756222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663525756222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +200,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latest commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest commits" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -204,6 +216,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/palindrome/PalindromeTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
