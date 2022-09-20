@@ -4,18 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="latest commits">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/DisplayCharFromAtoZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/NumberOfDigitsSUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/PowerOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/palindrome/PalindromeTest.java" afterDir="false" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems">
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plusMinusProblem/checkIfArmstrong/CheckArstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plusMinusProblem/checkIfArmstrong/CheckArstrongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindMissingNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/CarpimTablosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CarpimTablosu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/DisplayCharFromAtoZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/DisplayCharFromAtoZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FactorialFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FactorialFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindAsciiValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindAsciiValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/FindLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/MultiplyTwoFloating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MultiplyTwoFloating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/NumberOfDigitsSUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/NumberOfDigitsSUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverseNumber/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/UnluUnsuzHarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/UnluUnsuzHarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WarmUpQuestions/printInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/printInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/findPivotIndex/FindPivot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/findPivotIndex/FindPivotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,35 +67,41 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/checkPrimeNumber",
+    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/findDuplicateInString",
+    "last_opened_file_path": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/CheckSumOfTwoPrimeNumber",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2045977"
+    "project.structure.side.proportion": "0.2045977",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert.Mansuroglu\Desktop\InterviewJavaMavenn\src\main\java\CheckSumOfTwoPrimeNumber" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="findDuplicateInString" />
+      <recent name="factorsNumber" />
+      <recent name="checkIfArmstrong" />
       <recent name="checkPrimeNumber" />
       <recent name="palindrome" />
-      <recent name="displayCharactersLoop" />
-      <recent name="fibonacciSeries" />
-      <recent name="twoSum" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="RemoveJunkCharInString" />
       <recent name="checkPrimeBetweenIntervals" />
       <recent name="checkPrimeNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeNumberTest.primeNumberTest">
-    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.PowerOfNumber" />
+  <component name="RunManager" selected="JUnit.FindDuplicateStrTest.findDupTest">
+    <configuration name="FindDuplciateInAarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.FindDuplciateInAarray" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WarmUpQuestions.*" />
+          <option name="PATTERN" value="warmUpQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,65 +109,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeTest.palindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.FindMissingNumberInArray" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="palindrome.*" />
+          <option name="PATTERN" value="warmUpQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="palindrome" />
-      <option name="MAIN_CLASS_NAME" value="palindrome.PalindromeTest" />
-      <option name="METHOD_NAME" value="palindromeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplciateInAarray.testHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="warmUpQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="warmUpQuestions" />
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.FindDuplciateInAarray" />
+      <option name="METHOD_NAME" value="testHashMap" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfNumber.testAlternative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindDuplciateInAarray.testHashSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WarmUpQuestions.*" />
+          <option name="PATTERN" value="warmUpQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="WarmUpQuestions" />
-      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.PowerOfNumber" />
-      <option name="METHOD_NAME" value="testAlternative" />
+      <option name="PACKAGE_NAME" value="warmUpQuestions" />
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.FindDuplciateInAarray" />
+      <option name="METHOD_NAME" value="testHashSet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberTest.primeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindDuplicateStrTest.findDupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="checkPrimeBetweenIntervals.PrimeNumberInterval" />
+          <option name="PATTERN" value="findDuplicateInString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="checkPrimeBetweenIntervals" />
-      <option name="MAIN_CLASS_NAME" value="checkPrimeBetweenIntervals.PrimeNumberTest" />
-      <option name="METHOD_NAME" value="primeNumberTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumber.testAlternative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WarmUpQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WarmUpQuestions" />
-      <option name="MAIN_CLASS_NAME" value="WarmUpQuestions.ReverseNumber" />
-      <option name="METHOD_NAME" value="testAlternative" />
+      <option name="PACKAGE_NAME" value="findDuplicateInString" />
+      <option name="MAIN_CLASS_NAME" value="findDuplicateInString.FindDuplicateStrTest" />
+      <option name="METHOD_NAME" value="findDupTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimeNumberTest.primeNumberTest" />
-        <item itemvalue="JUnit.PalindromeTest.palindromeTest" />
-        <item itemvalue="Application.PowerOfNumber" />
-        <item itemvalue="JUnit.PowerOfNumber.testAlternative" />
-        <item itemvalue="JUnit.ReverseNumber.testAlternative" />
+        <item itemvalue="JUnit.FindDuplicateStrTest.findDupTest" />
+        <item itemvalue="JUnit.FindDuplciateInAarray.testHashMap" />
+        <item itemvalue="JUnit.FindDuplciateInAarray.testHashSet" />
+        <item itemvalue="Application.FindDuplciateInAarray" />
+        <item itemvalue="Application.FindMissingNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663525756222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new algorithm problems">
+      <created>1663600420734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663600420734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +230,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="latest commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest commits" />
+    <MESSAGE value="new algorithm problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -231,6 +260,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java</url>
           <line>12</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/plusMinusProblem/checkIfArmstrong/CheckArstrong.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

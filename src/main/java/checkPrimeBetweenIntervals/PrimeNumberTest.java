@@ -8,6 +8,6 @@ class PrimeNumberTest {
 
     @Test
     void primeNumberTest() {
-         PrimeNumberInterval.primeNumberInterval(20,50);
+         PrimeNumberInterval.primeNumberInterval(2,50);
     }
 }

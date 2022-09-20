@@ -1,6 +1,5 @@
-package findPivotIndex;
+package checkSumOfTwoPrimeNumber.findPivotIndex;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -12,7 +11,7 @@ class FindPivotTest {
         int[] array = {1, 7, 1};
         FindPivot findPivot= new FindPivot();
         findPivot.pivotIndex(array);
-        Assertions.assertEquals(1,findPivot.pivotIndex(array));
+        assertEquals(1,findPivot.pivotIndex(array));
     }
 
     @Test
@@ -20,7 +19,7 @@ class FindPivotTest {
         int[] array = {1,6,8,9,2,7, 1 };
         FindPivot findPivot= new FindPivot();
         findPivot.pivotIndex(array);
-        Assertions.assertEquals(-1,findPivot.pivotIndex(array));
+        assertEquals(-1,findPivot.pivotIndex(array));
     }
 
     @Test
@@ -28,6 +27,6 @@ class FindPivotTest {
         int[] array = {1,-1,1};
         FindPivot findPivot= new FindPivot();
         findPivot.pivotIndex(array);
-        Assertions.assertEquals(0,findPivot.pivotIndex(array));
+        assertEquals(0,findPivot.pivotIndex(array));
     }
 }
