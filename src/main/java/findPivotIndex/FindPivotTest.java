@@ -1,4 +1,4 @@
-package checkSumOfTwoPrimeNumber.findPivotIndex;
+package findPivotIndex;
 
 import org.junit.jupiter.api.Test;
 

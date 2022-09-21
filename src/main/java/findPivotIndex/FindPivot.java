@@ -1,4 +1,4 @@
-package checkSumOfTwoPrimeNumber.findPivotIndex;
+package findPivotIndex;
 
 
 public class FindPivot {

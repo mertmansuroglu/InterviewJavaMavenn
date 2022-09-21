@@ -1,4 +1,4 @@
-package plusMinusProblem.checkIfArmstrong;
+package checkIfArmstrong;
 
 import java.util.ArrayList;
 import java.util.List;
