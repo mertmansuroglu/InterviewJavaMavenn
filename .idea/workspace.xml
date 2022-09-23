@@ -4,28 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/countOccurencesOfChar/CheckCharOccurences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareSiteUrlWIthItsURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareTwoInteger_DivideBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EscapeSpecialCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/ExecuteCommentsInJAVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MethodOverloadingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MinValOfDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintLongNumberWithoutL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintName1000TimeWithoutLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/StaticBlockWithFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/printInteger_AndstringWoSemicolon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems version">
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkgivenstrinisNumber/CheckValidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findLengthOfStringWithoutUsingLengthMethod/FindLengthString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shiftAllZeroElementsToRight/ShiftArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/JoinTwoArraysusingGuava_List_Hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintArrayFrom1to100WithoutLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/findPivotIndex/FindPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/findPivotIndex/FindPivotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plusMinusProblem/checkIfArmstrong/CheckArstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/plusMinusProblem/checkIfArmstrong/CheckArstrongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrongTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/printInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/countOccurencesOfChar/CheckCharOccurences.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/findDuplicateInString",
-    "last_opened_file_path": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/CheckSumOfTwoPrimeNumber",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2045977",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/findDuplicateInString&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/CheckSumOfTwoPrimeNumber&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2045977&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="factorsNumber" />
@@ -91,9 +80,9 @@
       <recent name="checkPrimeNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticBlockWithFinal">
-    <configuration name="CompareSiteUrlWIthItsURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.CompareSiteUrlWIthItsURL" />
+  <component name="RunManager" selected="Application.CheckValidNumber">
+    <configuration name="CheckSubstringIsGivenInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.CheckSubstringIsGivenInString" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintName1000TimeWithoutLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.PrintName1000TimeWithoutLoop" />
+    <configuration name="CheckValidNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkgivenstrinisNumber.CheckValidNumber" />
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkgivenstrinisNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintArrayFrom1to100WithoutLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.PrintArrayFrom1to100WithoutLoop" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlockWithFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.StaticBlockWithFinal" />
+    <configuration name="ShiftArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shiftAllZeroElementsToRight.ShiftArray" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="warmUpQuestions.*" />
+          <option name="PATTERN" value="shiftAllZeroElementsToRight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printInteger_AndstringWoSemicolon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.printInteger_AndstringWoSemicolon" />
+    <configuration name="SortArrayTwins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortArrayTwins.SortArrayTwins" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="warmUpQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="warmUpQuestions.MethodOverloadingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.MethodOverloadingOrder" />
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="warmUpQuestions.*" />
+          <option name="PATTERN" value="sortArrayTwins.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticBlockWithFinal" />
-        <item itemvalue="Application.PrintName1000TimeWithoutLoop" />
-        <item itemvalue="Application.printInteger_AndstringWoSemicolon" />
-        <item itemvalue="Application.warmUpQuestions.MethodOverloadingOrder" />
-        <item itemvalue="Application.warmUpQuestions.CompareSiteUrlWIthItsURL" />
+        <item itemvalue="Application.CheckValidNumber" />
+        <item itemvalue="Application.SortArrayTwins" />
+        <item itemvalue="Application.ShiftArray" />
+        <item itemvalue="Application.PrintArrayFrom1to100WithoutLoop" />
+        <item itemvalue="Application.CheckSubstringIsGivenInString" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663699487669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new algorithm problems version">
+      <created>1663792447080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663792447080</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="latest commits" />
     <MESSAGE value="new algorithm problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems" />
+    <MESSAGE value="new algorithm problems version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,6 +261,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java</url>
           <line>10</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/JoinTwoArraysusingGuava_List_Hashset.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/CheckSubstringIsGivenInString.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
