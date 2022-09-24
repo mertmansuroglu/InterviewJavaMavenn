@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package warmUpQuestions;
 
 import org.junit.jupiter.api.Test;
 

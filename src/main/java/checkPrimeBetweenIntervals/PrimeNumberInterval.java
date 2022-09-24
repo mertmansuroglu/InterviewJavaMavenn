@@ -14,7 +14,7 @@ public class PrimeNumberInterval {
        {
            for(int i=2;i<=number;i++){
                if(i!=2&&i!=number){
-                   if(number%i==0){
+                   if(number%i==0|number%2==0){
                        list.remove(list.indexOf(number));
                        break;
                    }

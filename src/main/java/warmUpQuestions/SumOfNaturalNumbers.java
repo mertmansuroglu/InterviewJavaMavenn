@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package warmUpQuestions;
 
 public class SumOfNaturalNumbers {
 

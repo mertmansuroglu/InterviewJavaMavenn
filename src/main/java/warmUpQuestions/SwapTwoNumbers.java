@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package warmUpQuestions;
 
 public class SwapTwoNumbers {
     public static void main(String[] args) {

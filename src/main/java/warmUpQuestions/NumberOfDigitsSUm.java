@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package warmUpQuestions;
 
 import org.junit.jupiter.api.Test;
 
@@ -24,5 +24,11 @@ public class NumberOfDigitsSUm {
             ++count;
         }
         System.out.println(count);
+    }
+    @Test
+    public void testAlternative2(){
+        int num=124535634;
+        int count=0;
+        System.out.println( String.valueOf(num).length());
     }
 }

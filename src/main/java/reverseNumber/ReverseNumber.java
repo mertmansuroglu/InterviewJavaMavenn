@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package reverseNumber;
 
 import org.junit.jupiter.api.Test;
 
@@ -27,5 +27,18 @@ public class ReverseNumber {
 
         }
         System.out.println(rev);
+    }
+    @Test
+    public void testAlternativeStringReverse(){
+        String a="abcde";
+        char[] ch= a.toCharArray();
+        char[] newArr=new char[ch.length];
+        int b=0;
+        for(int i=ch.length-1;i>=0;i--){
+            newArr[b]=Character.valueOf(ch[i]);
+            b++;
+        }
+        System.out.println(newArr);
+        ;
     }
 }

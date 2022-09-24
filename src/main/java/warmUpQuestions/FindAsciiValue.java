@@ -1,4 +1,4 @@
-package WarmUpQuestions;
+package warmUpQuestions;
 
 public class FindAsciiValue {
     public static void main(String[] args) {
