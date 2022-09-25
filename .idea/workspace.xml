@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems version">
-      <change afterPath="$PROJECT_DIR$/src/main/java/checkgivenstrinisNumber/CheckValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/findLengthOfStringWithoutUsingLengthMethod/FindLengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shiftAllZeroElementsToRight/ShiftArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/JoinTwoArraysusingGuava_List_Hashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintArrayFrom1to100WithoutLoop.java" afterDir="false" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems version 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/GetTotalCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/GenerateRandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/RemoveWhiteSpacesInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/countOccurencesOfChar/CheckCharOccurences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,27 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/findDuplicateInString&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/CheckSumOfTwoPrimeNumber&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2045977&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_directory_selection": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/findDuplicateInString",
+    "last_opened_file_path": "C:/Users/Mert.Mansuroglu/Desktop/InterviewJavaMavenn/src/main/java/getTotalOfCharLineWord",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2045977",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="factorsNumber" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert.Mansuroglu\Desktop\InterviewJavaMavenn\src\main\java\getTotalOfCharLineWord" />
+      <recent name="C:\Users\Mert.Mansuroglu\Desktop\InterviewJavaMavenn\src\main\java\maximumWordCountInTextFile" />
       <recent name="C:\Users\Mert.Mansuroglu\Desktop\InterviewJavaMavenn\src\main\java\CheckSumOfTwoPrimeNumber" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -80,9 +81,9 @@
       <recent name="checkPrimeNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckValidNumber">
-    <configuration name="CheckSubstringIsGivenInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.CheckSubstringIsGivenInString" />
+  <component name="RunManager" selected="Application.RemoveWhiteSpacesInString">
+    <configuration name="GenerateRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.GenerateRandomNumbers" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckValidNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkgivenstrinisNumber.CheckValidNumber" />
+    <configuration name="GetTotalCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getTotalOfCharLineWord.GetTotalCount" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="checkgivenstrinisNumber.*" />
+          <option name="PATTERN" value="getTotalOfCharLineWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayFrom1to100WithoutLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.PrintArrayFrom1to100WithoutLoop" />
+    <configuration name="RemoveWhiteSpacesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.RemoveWhiteSpacesInString" />
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
@@ -120,28 +121,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shiftAllZeroElementsToRight.ShiftArray" />
+    <configuration name="MaximumWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shiftAllZeroElementsToRight.*" />
+          <option name="PATTERN" value="maximumWordCountInTextFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="maximumWordCountInTextFile" />
+      <option name="MAIN_CLASS_NAME" value="maximumWordCountInTextFile.MaximumWordTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayTwins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortArrayTwins.SortArrayTwins" />
+    <configuration name="MaximumWordTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewJavaMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortArrayTwins.*" />
+          <option name="PATTERN" value="maximumWordCountInTextFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="maximumWordCountInTextFile" />
+      <option name="MAIN_CLASS_NAME" value="maximumWordCountInTextFile.MaximumWordTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckValidNumber" />
-        <item itemvalue="Application.SortArrayTwins" />
-        <item itemvalue="Application.ShiftArray" />
-        <item itemvalue="Application.PrintArrayFrom1to100WithoutLoop" />
-        <item itemvalue="Application.CheckSubstringIsGivenInString" />
+        <item itemvalue="Application.RemoveWhiteSpacesInString" />
+        <item itemvalue="Application.GetTotalCount" />
+        <item itemvalue="JUnit.MaximumWordTest" />
+        <item itemvalue="JUnit.MaximumWordTest.test" />
+        <item itemvalue="Application.GenerateRandomNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663792447080</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new algorithm problems version 2">
+      <created>1663970728341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663970728341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +235,8 @@
     <MESSAGE value="latest commits" />
     <MESSAGE value="new algorithm problems" />
     <MESSAGE value="new algorithm problems version" />
-    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems version" />
+    <MESSAGE value="new algorithm problems version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems version 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,6 +290,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/CheckSubstringIsGivenInString.java</url>
           <line>30</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
