@@ -14,7 +14,9 @@ public class RunSum {
 
     public static void runningSumWithRecursive(int[] nums, int startingIndexNo){
         if (startingIndexNo==nums.length-1) return;
+
         nums[startingIndexNo+1]+=nums[startingIndexNo];
+
         runningSumWithRecursive(nums,startingIndexNo+1);
     }
 }
