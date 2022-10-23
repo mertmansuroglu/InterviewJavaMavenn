@@ -30,23 +30,25 @@ public class MiniMaxSum {
         System.out.println(TotalSum - min);
 
     }
+
     public static void miniMaxSumAlternativeWay(List<Integer> arr) {
         long minSum = 0;
         long maxSum = 0;
-        Long maxNumber= Long.valueOf(arr.stream().max(Comparator.naturalOrder()).get());
-        Long minNumber= Long.valueOf(arr.stream().min(Comparator.naturalOrder()).get());
-        minSum=arr.stream().mapToLong(f->f.longValue()).sum()-maxNumber;
-        maxSum=arr.stream().mapToLong(f->f.longValue()).sum()-minNumber;
-        System.out.println(minSum+" "+maxSum);
+        Long maxNumber = Long.valueOf(arr.stream().max(Comparator.naturalOrder()).get());
+        Long minNumber = Long.valueOf(arr.stream().min(Comparator.naturalOrder()).get());
+        minSum = arr.stream().mapToLong(f -> f.longValue()).sum() - maxNumber;
+        maxSum = arr.stream().mapToLong(f -> f.longValue()).sum() - minNumber;
+        System.out.println(minSum + " " + maxSum);
     }
+
     public static void miniMaxSumAlternativeWay2(List<Integer> arr) {
         long sum = 0;
         long min = Collections.min(arr);
-        long max=Collections.max(arr);
-        for(int i=0;i<arr.size();i++){
-            sum+=arr.get(i);
+        long max = Collections.max(arr);
+        for (int i = 0; i < arr.size(); i++) {
+            sum += arr.get(i);
         }
-        System.out.print(sum-max+" ");
-        System.out.println(sum-min);
+        System.out.print(sum - max + " ");
+        System.out.println(sum - min);
     }
 }

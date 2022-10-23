@@ -7,7 +7,7 @@ class PalindromeTest {
 
     @Test
     void palindromeTest() {
-        int number=75257;
+        int number = 75257;
         Assertions.assertTrue(Palindrome.palindrome(number));
         Assertions.assertTrue(Palindrome.testAlternative(number));
     }

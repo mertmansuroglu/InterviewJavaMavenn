@@ -8,13 +8,14 @@ public class CheckValidNumber {
         System.out.println(isValidPhone("05078435"));
     }
 
-    public static boolean isValid(String s){
-        Pattern pattern= Pattern.compile("[0-99]+");
-        Pattern pattern2= Pattern.compile("\\d+");
+    public static boolean isValid(String s) {
+        Pattern pattern = Pattern.compile("[0-99]+");
+        Pattern pattern2 = Pattern.compile("\\d+");
         return pattern2.matcher(s).matches();
     }
-    public static boolean isValidPhone(String s){
-        Pattern pattern= Pattern.compile("[0-9]{10}");
+
+    public static boolean isValidPhone(String s) {
+        Pattern pattern = Pattern.compile("[0-9]{10}");
         return pattern.matcher(s).matches();
     }
 }

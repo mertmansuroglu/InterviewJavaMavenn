@@ -9,9 +9,9 @@ class PlusMinusTest {
 
     @Test
     void plusMinusTest() {
-        Integer[] array = new Integer[] { 1, 1, 0, -1, -1};
-        List<Integer> list= Arrays.asList(array);
-        PlusMinus plusMinus= new PlusMinus();
+        Integer[] array = new Integer[]{1, 1, 0, -1, -1};
+        List<Integer> list = Arrays.asList(array);
+        PlusMinus plusMinus = new PlusMinus();
         plusMinus.plusMinus(list);
     }
 

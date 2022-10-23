@@ -26,6 +26,7 @@ public class CheckCharOccurences {
         System.out.println(map);
 //          return map;
     }
+
     @Test
     public void checkWovelOccurences() {
         HashMap<String, Integer> map = new HashMap<>();
@@ -34,25 +35,26 @@ public class CheckCharOccurences {
         int countUnsuz = 0;
         int countWovel = 0;
         for (int i = 0; i < ch.length; i++) {
-            if (Character.valueOf(ch[i]) == 'o'||Character.toString(ch[i]).equalsIgnoreCase("e")|| Character.toString(ch[i]).equalsIgnoreCase("a")|| Character.toString(ch[i]).equalsIgnoreCase("u")|| Character.toString(ch[i]).equalsIgnoreCase("i")) {
+            if (Character.valueOf(ch[i]) == 'o' || Character.toString(ch[i]).equalsIgnoreCase("e") || Character.toString(ch[i]).equalsIgnoreCase("a") || Character.toString(ch[i]).equalsIgnoreCase("u") || Character.toString(ch[i]).equalsIgnoreCase("i")) {
                 countWovel++;
-            } else if(!Character.toString(ch[i]).equalsIgnoreCase(" ")) {
+            } else if (!Character.toString(ch[i]).equalsIgnoreCase(" ")) {
                 countUnsuz++;
 
             }
-            }
-        map.put("unlu sayisi",countWovel);
-        map.put("unsuz sayisi",countUnsuz);
-        System.out.println(map);
         }
-        //USING GOOGLE GUAVA IS AMAZING!
+        map.put("unlu sayisi", countWovel);
+        map.put("unsuz sayisi", countUnsuz);
+        System.out.println(map);
+    }
+
+    //USING GOOGLE GUAVA IS AMAZING!
     @Test
     public void checkWovelOccurencesGuava() {
-       String test="i love coding";
-       int voWelCount= CharMatcher.anyOf("aeiouAEIOU").countIn(test);
+        String test = "i love coding";
+        int voWelCount = CharMatcher.anyOf("aeiouAEIOU").countIn(test);
         System.out.println(voWelCount);
     }
-    }
+}
 
 
 

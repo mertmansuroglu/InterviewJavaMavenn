@@ -8,7 +8,7 @@ import java.net.URL;
 public class CompareSiteUrlWIthItsURL {
     /**
      * compare site url with its ip address
-     *abc.com ----> 89.90.98.101 ikisi ayni anlama gelir cunku
+     * abc.com ----> 89.90.98.101 ikisi ayni anlama gelir cunku
      */
     public static void main(String[] args) {
 
@@ -18,7 +18,7 @@ public class CompareSiteUrlWIthItsURL {
             throw new RuntimeException(e);
         }
         try {
-            Assertions.assertEquals(new URL("https://app.hubspot.com"),new URL("https://104.19.155.83"));
+            Assertions.assertEquals(new URL("https://app.hubspot.com"), new URL("https://104.19.155.83"));
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }

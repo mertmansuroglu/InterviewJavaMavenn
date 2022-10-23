@@ -12,20 +12,20 @@ class RunSumTest {
     void runningSumTestWithExpectedInput() {
 
         Integer[] array = {1, 2, 3, 4};
-        Integer[] ans={1,3,6,10};
-        RunSum runSum= new RunSum();
-        List<Integer> arrayListInput= Arrays.asList(runSum.runningSum(array));
-        List<Integer> arrayListAnswer= Arrays.asList(ans);
+        Integer[] ans = {1, 3, 6, 10};
+        RunSum runSum = new RunSum();
+        List<Integer> arrayListInput = Arrays.asList(runSum.runningSum(array));
+        List<Integer> arrayListAnswer = Arrays.asList(ans);
         Assertions.assertTrue(arrayListInput.equals(arrayListAnswer));
 
     }
 
     @Test
-    void runningSumTestWithRecursive(){
+    void runningSumTestWithRecursive() {
         int[] array = {1, 3, 5, 7};
-        int[] ans={1,4,9,16};
-        RunSum runSum= new RunSum();
-        runSum.runningSumWithRecursive(array,0);
-        Assertions.assertArrayEquals(array,ans);
+        int[] ans = {1, 4, 9, 16};
+        RunSum runSum = new RunSum();
+        RunSum.runningSumWithRecursive(array, 0);
+        Assertions.assertArrayEquals(array, ans);
     }
 }

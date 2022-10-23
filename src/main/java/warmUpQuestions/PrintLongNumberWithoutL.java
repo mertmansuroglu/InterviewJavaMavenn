@@ -11,8 +11,8 @@ public class PrintLongNumberWithoutL {
          * so, java will delete 4 bits at the end and convert 36 bit to 32 bit integer to decimal and show the result 1471228928
          * if you want to have real result, we need to add l to the end@
          */
-        long longNumberWithoutL= 1000*60*60*24*365;
-        long longNumberWithL= 1000*60*60*24*365l;
+        long longNumberWithoutL = 1000 * 60 * 60 * 24 * 365;
+        long longNumberWithL = 1000 * 60 * 60 * 24 * 365l;
         System.out.println(longNumberWithoutL);
         System.out.println(longNumberWithL);
     }

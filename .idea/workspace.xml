@@ -4,16 +4,152 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems version 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/GetTotalCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/word.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/word.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/GenerateRandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/RemoveWhiteSpacesInString.java" afterDir="false" />
+    <list default="true" id="52b13046-9736-4aec-bfe7-fd74b1c21d83" name="Changes" comment="new algorithm problems version 3">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05a68009ff638d663801b1e37232ce9e9a92a44c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10d4bed36b0241b51ba7c4d9ab5b291a11fe324d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1dc13ee10b784ffd35a959c2fa8a639bbb7cd1b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ecc670dbb82afec251d4a1e989dcf3b73966845" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24bdef260b8fae9f205fb743f7a997a2b9a9e89d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26ea3576dff0ce2dc9a30de78a577bc1fe40b009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2898516198ed036b738afea3846a9b4f32f056a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b1d146d57c5504b0dcf5916eb06cf6012ca5681" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dab3508c338a4b0daafa4e93ae3dc271134e0eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2df920143c4f14312194f623c49089eae9cad52f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f4951434f48fffa61fd615b65d416c939c414ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/316266f9e6759460bb4de35aeb6eb3ad2ea27795" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3288257bde0829434583b84d5da3cb8e5d7a4460" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3662222dea4cef6b31f10eb45203d8ff370ea77f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b132674f62d8d6ae8967655bf8fe13b207a01e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b5bf0132326ba3809cdb7eaa8f7dd3c8768b924" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d39b687c9c9ce339de49833b055496b0a61232b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/429d555cf7c18a72906cc36a0f8d0a02c99f0d1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/456d5f0330a377fe2823fc47d076a68138246740" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49f5591552d0897dfc6f72568363f56e8b4719ba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/548909e630bea430dde85b3afad6f0924acd3521" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5843bff5355bcb181a4e31ccf9069b55ed7d58f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60c23e59c2830ea7368ab522fbff114cb75bdb8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/612e9b40498fc360726de9987e8a30c81d6d66e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6131d46bc9196ddffa2607212031ef6ad28737e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70c00c084dd230091339aa672f999f17c99a653e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ad9afb9609355b46c5d4be8fd21a44925d5126e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89a45e1fb86cd20b3f3bb8fa5ba4da43e6299624" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8ce6bd7a400233bddf85bcd2a57854b53eb8b4d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ce79938c38fa020925ffde284b36b99c6b289a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/926b59b3c1fa5a3ce1c454c26907d3997d2fa669" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f642325f5e8287eb7f73a948a4f3629ee5c63bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8250b80ca86a1ee0796856dbd51ef962b9ca31a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abf720b668cfbfaff799489a04f825d86f025e00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acdb64d39148924c4cf8d6d92a74ab5e5d10690c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adb5e660643ef020c767cc8d357feed3a9c11794" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae6e766da8793734ba6bd877d14c38613d04f579" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14362d2aa862508612e639de560d6a10162241f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf04ce79fb5cd0505d0b0a0864babd2b88152db0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf6676a3ed77753400a87b42c7ba1167efc7bd56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfc32b9243287764d350311d988a7d90109bb65a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c206ef4255eeee9137fd6c254c12148ba72d4eb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c368a177881d1c21636f26a1ec53ba7d000ee109" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c49363b47bd8c88f942a33962c3dd8520a3e2c62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d03a4d9b5f8e507e11b3172bc7d5e8bb87a0d73d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3582d14c19421af61c3b1fbb4848f40c99b8ef7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3ad1d931f86dced933682f01b2b8e15a24c470a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e026ae489d81b25d1dc11d3e53c51b69463feb9d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3f0306cfce422b8d9e908a6fbfee2251fed998d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6c6ecc351b6b525b882e4265f299eeeb1d1de62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e898602405bd980b09e2e1a02ee0d845cc8083ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea008042531574d5c1f911db79bd0b1f8618695d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea108f6e416acde6527d2186e1436ca319edfcb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eee26ef22143cd145d9090e71644adbc24cd950c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11c4610a421e3569e76075818d561834d52abf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f40d855c4f4548549ee4a5a6989146dd0c2bc2e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9796885acb649946155316c75f3e70d5106c199" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/client/ClosabHttpClienttt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/client/JavaNetHttpClıent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/client/UrlConnectionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/datas/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/datas/Users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/test/GetApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/test/PostAPiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiAutomation/util/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/PrimeNumberTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkSumOfTwoPrimeNumber/PrimeNumberTwoNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkWhetherTwoStringsAnagram/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/checkWhetherTwoStringsAnagram/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fibonacciSeries/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/removeJunkCharInString/RemoveJunkChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringToNumberWithoutParseInt/StringToINT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CheckSubstringIsGivenInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/stackOverFlow/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/stackOverFlow/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/stackOverFlow/StackOverFlowError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeBetweenIntervals/PrimeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkPrimeNumber/PrimeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkgivenstrinisNumber/CheckValidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkgivenstrinisNumber/CheckValidNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diagonalDifference/Diagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diagonalDifference/Diagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/diagonalDifference/DiagonalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/diagonalDifference/DiagonalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factorsNumber/FactorsNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fibonacciSeries/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fibonacciSeries/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findDuplicateInString/FindDuplicateStrTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findLengthOfStringWithoutUsingLengthMethod/FindLengthString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findLengthOfStringWithoutUsingLengthMethod/FindLengthString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findPivotIndex/FindPivotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/GetTotalCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/getTotalOfCharLineWord/GetTotalCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/miniMaxSum/MiniMaxSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/palindrome/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/plusMinusProblem/PlusMinusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseNumber/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverseNumber/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runSumOFarray/RunSumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sortArrayTwins/SortArrayTwins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twoSum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/twoSum/TwoSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/twoSum/TwoSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CarpimTablosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CarpimTablosu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareSiteUrlWIthItsURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareSiteUrlWIthItsURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareTwoInteger_DivideBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/CompareTwoInteger_DivideBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/DisplayCharFromAtoZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/DisplayCharFromAtoZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EscapeSpecialCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EscapeSpecialCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/ExecuteCommentsInJAVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/ExecuteCommentsInJAVA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FactorialFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FactorialFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindAsciiValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindAsciiValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindMissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/FindMissingNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/GenerateRandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/GenerateRandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/JoinTwoArraysusingGuava_List_Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/JoinTwoArraysusingGuava_List_Hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MethodOverloadingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MethodOverloadingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MinValOfDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MinValOfDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MultiplyTwoFloating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/MultiplyTwoFloating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/NumberOfDigitsSUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/NumberOfDigitsSUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintArrayFrom1to100WithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintArrayFrom1to100WithoutLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintLongNumberWithoutL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintLongNumberWithoutL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintName1000TimeWithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/PrintName1000TimeWithoutLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/RemoveWhiteSpacesInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/RemoveWhiteSpacesInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/StaticBlockWithFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/StaticBlockWithFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/UnluUnsuzHarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/UnluUnsuzHarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/warmUpQuestions/printInteger_AndstringWoSemicolon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/warmUpQuestions/printInteger_AndstringWoSemicolon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +173,7 @@
   <component name="ProjectId" id="2Eu9AHqbVvyBAdUkNLrjrq5YGSc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -53,6 +190,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2045977",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -81,77 +219,7 @@
       <recent name="checkPrimeNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveWhiteSpacesInString">
-    <configuration name="GenerateRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.GenerateRandomNumbers" />
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="warmUpQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetTotalCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getTotalOfCharLineWord.GetTotalCount" />
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="getTotalOfCharLineWord.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveWhiteSpacesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmUpQuestions.RemoveWhiteSpacesInString" />
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="warmUpQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maximumWordCountInTextFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="maximumWordCountInTextFile" />
-      <option name="MAIN_CLASS_NAME" value="maximumWordCountInTextFile.MaximumWordTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumWordTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewJavaMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maximumWordCountInTextFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="maximumWordCountInTextFile" />
-      <option name="MAIN_CLASS_NAME" value="maximumWordCountInTextFile.MaximumWordTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PostAPiTest.postApiTestUrlConnection">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,13 +231,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetApiTest.getApTestUrlConnection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiAutomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiAutomation.test" />
+      <option name="MAIN_CLASS_NAME" value="apiAutomation.test.GetApiTest" />
+      <option name="METHOD_NAME" value="getApTestUrlConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApiTest.getApiTestNAsynch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiAutomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiAutomation.test" />
+      <option name="MAIN_CLASS_NAME" value="apiAutomation.test.GetApiTest" />
+      <option name="METHOD_NAME" value="getApiTestNAsynch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApiTest.getApiUrlConnection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiAutomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiAutomation.test" />
+      <option name="MAIN_CLASS_NAME" value="apiAutomation.test.GetApiTest" />
+      <option name="METHOD_NAME" value="getApiUrlConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostAPiTest.postApiTestAsynch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiAutomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiAutomation.test" />
+      <option name="MAIN_CLASS_NAME" value="apiAutomation.test.PostAPiTest" />
+      <option name="METHOD_NAME" value="postApiTestAsynch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostAPiTest.postApiTestUrlConnection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiAutomation.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiAutomation.test" />
+      <option name="MAIN_CLASS_NAME" value="apiAutomation.test.PostAPiTest" />
+      <option name="METHOD_NAME" value="postApiTestUrlConnection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveWhiteSpacesInString" />
-        <item itemvalue="Application.GetTotalCount" />
-        <item itemvalue="JUnit.MaximumWordTest" />
-        <item itemvalue="JUnit.MaximumWordTest.test" />
-        <item itemvalue="Application.GenerateRandomNumbers" />
+        <item itemvalue="TestNG.PostAPiTest.postApiTestUrlConnection" />
+        <item itemvalue="TestNG.PostAPiTest.postApiTestAsynch" />
+        <item itemvalue="TestNG.GetApiTest.getApiTestNAsynch" />
+        <item itemvalue="TestNG.GetApiTest.getApTestUrlConnection" />
+        <item itemvalue="TestNG.GetApiTest.getApiUrlConnection" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663970728341</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new algorithm problems version 3">
+      <created>1664127869139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664127869139</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +401,8 @@
     <MESSAGE value="new algorithm problems" />
     <MESSAGE value="new algorithm problems version" />
     <MESSAGE value="new algorithm problems version 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems version 2" />
+    <MESSAGE value="new algorithm problems version 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="new algorithm problems version 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,7 +414,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tallestCandle/TallestCandle.java</url>
-          <line>12</line>
+          <line>10</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -258,7 +424,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/palindrome/Palindrome.java</url>
-          <line>31</line>
+          <line>25</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -267,18 +433,13 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/checkIfArmstrong/CheckArstrong.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/FindDuplciateInAarray.java</url>
-          <line>10</line>
+          <line>14</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/countOccurencesOfCharVowel/CheckCharOccurences.java</url>
-          <line>43</line>
+          <line>44</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -288,13 +449,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/CheckSubstringIsGivenInString.java</url>
-          <line>30</line>
+          <line>27</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/maximumWordCountInTextFile/MaximumWordCount.java</url>
-          <line>28</line>
+          <line>33</line>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/checkWhetherTwoStringsAnagram/Anagram.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/warmUpQuestions/stackOverFlow/StackOverFlowError.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

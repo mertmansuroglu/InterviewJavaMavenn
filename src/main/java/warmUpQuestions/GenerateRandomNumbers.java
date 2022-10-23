@@ -12,30 +12,29 @@ public class GenerateRandomNumbers {
     public static void main(String[] args) {
 
 
-
         //Random class
-        Random rd= new Random();
-        for(int i=0;i<5;i++){
-           System.out.println(rd.nextInt());
+        Random rd = new Random();
+        for (int i = 0; i < 5; i++) {
+            System.out.println(rd.nextInt());
         }
         System.out.println("-----------------------------------");
-        for(int i=0;i<5;i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println(rd.nextInt(20)); //0 to 20 random numbers
         }
         System.out.println("-----------------------------------");
 
         //Math.random  0-1 arasinda deger atar ama 10 la carparsak 1 9 arasinda deger gelir!
-        for(int i=0;i<5;i++){
-            System.out.println((int) (Math.random()*10));
+        for (int i = 0; i < 5; i++) {
+            System.out.println((int) (Math.random() * 10));
         }
         System.out.println("-----------------------------------");
         //Thread local Random
-        for(int i=0;i<5;i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println(ThreadLocalRandom.current().nextInt());
         }
         System.out.println("-----------------------------------");
-        for(int i=0;i<5;i++){
-            System.out.println(ThreadLocalRandom.current().nextInt(0,20));
+        for (int i = 0; i < 5; i++) {
+            System.out.println(ThreadLocalRandom.current().nextInt(0, 20));
         }
     }
 }

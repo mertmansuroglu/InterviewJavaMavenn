@@ -35,7 +35,7 @@ public class FindLargest {
     public void testLargeAlternative2() {
 
         List<Integer> list = Arrays.asList(1, 5, 7);
-        System.out.println( list.stream().max(Comparator.naturalOrder()).get());
+        System.out.println(list.stream().max(Comparator.naturalOrder()).get());
 
     }
 }

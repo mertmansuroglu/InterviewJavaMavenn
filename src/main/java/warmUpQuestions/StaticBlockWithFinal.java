@@ -8,17 +8,19 @@ public class StaticBlockWithFinal {
         System.out.println(Main.x);
         System.out.println(Main2.x);
     }
-    class Main{
-        public static final int x=100;
 
-        static{
+    class Main {
+        public static final int x = 100;
+
+        static {
             System.out.print("::main class static");
         }
     }
-    class Main2{
-        public static int x=200;
 
-        static{
+    class Main2 {
+        public static int x = 200;
+
+        static {
             System.out.print("main class static::");
         }
     }
