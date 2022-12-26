@@ -1,0 +1,92 @@
+[
+  {
+    "Users":
+  [
+    {
+      "userId":"10",
+      "username":"ahmet",
+      "password":"5564"
+    },
+    {
+      "userId":"11",
+      "username":"ali",
+      "password":"678"
+    },
+    {
+      "userId":"12",
+      "username":"veli",
+      "password":"998"
+    }
+  ]
+  },
+  {
+    "Orders":
+    [ {
+      "orderId":"1",
+      "UserId":"11",
+      "orderDetails":"Samsung",
+      "OrderFees":"12 TL"
+    },
+      {
+        "orderId":"2",
+        "UserId":"10",
+        "orderDetails":"Iphone",
+        "OrderFees":"35 TL"
+      },
+      {
+        "orderId":"3",
+        "UserId":"11",
+        "orderDetails":"Asus",
+        "OrderFees":"48 TL"
+      },
+      {
+        "orderId":"4",
+        "UserId":"12",
+        "orderDetails":"MI BOX",
+        "OrderFees":"45 TL"
+      },
+      {
+        "orderId":"5",
+        "UserId":"10",
+        "orderDetails":"Acer",
+        "OrderFees":"85 TL"
+      },
+      {
+        "orderId":"6",
+        "UserId":"11",
+        "orderDetails":"Lenovo",
+        "OrderFees":"89 TL"
+      },
+      {
+        "orderId":"7",
+        "UserId":"12",
+        "orderDetails":"Iphone",
+        "OrderFees":"35 TL"
+      },
+      {
+        "orderId":"8",
+        "UserId":"10",
+        "orderDetails":"Dell",
+        "OrderFees":"99 TL"
+      },
+      {
+        "orderId":"9",
+        "UserId":"10",
+        "orderDetails":"Xerox",
+        "OrderFees":"22 TL"
+      },
+      {
+        "orderId":"11",
+        "UserId":"11",
+        "orderDetails":"Casper",
+        "OrderFees":"98 TL"
+      },
+      {
+        "orderId":"12",
+        "UserId":"10",
+        "orderDetails":"LG",
+        "OrderFees":"99 TL"
+      }
+    ]
+  }
+]

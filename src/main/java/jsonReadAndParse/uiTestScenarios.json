@@ -1,0 +1,26 @@
+[
+{
+"IndexNo":" 1",
+"TestCaseID":"TestCaseId1",
+"Description":"Add to List",
+"Steps":"click(btnRemoveFromList)::select(cbGrade['C1'])::click(btnAddToList)"
+},
+{
+"IndexNo":" 2",
+"TestCaseID":"TestCaseId2",
+"Description":"Remove From List",
+"Steps":"input(txtName['Ali '])::expect(lstNameGrade['Ali B2'])::expect(lstNameGrade[''])::select(lstNameGrade['Ali B2'])::click(btnRemoveFromList)"
+},
+{
+"IndexNo":" 3",
+"TestCaseID":"TestCaseId3",
+"Description":"Deny Empty String Add",
+"Steps":"input(txtName[''])::click(btnAddToList)::expect(msgBoxErrorText['Please write name and selece grade'])::click(msgBoxErrorBtnOk)"
+},
+{
+"IndexNo":" 4",
+"TestCaseID":"TestCaseId4",
+"Description":"Deny Empty String Add",
+"Steps":"input(txtName[''])::click(btnAddToList)::expect(msgBoxErrorText['Please write name and selece grade'])::click(msgBoxErrorBtnOk)"
+}
+]
